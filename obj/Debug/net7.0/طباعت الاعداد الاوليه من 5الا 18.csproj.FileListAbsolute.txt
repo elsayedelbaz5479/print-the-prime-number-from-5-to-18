@@ -1,0 +1,15 @@
+C:\Users\hp\source\repos\طباعت الاعداد الاوليه من 5الا 18\bin\Debug\net7.0\طباعت الاعداد الاوليه من 5الا 18.exe
+C:\Users\hp\source\repos\طباعت الاعداد الاوليه من 5الا 18\bin\Debug\net7.0\طباعت الاعداد الاوليه من 5الا 18.deps.json
+C:\Users\hp\source\repos\طباعت الاعداد الاوليه من 5الا 18\bin\Debug\net7.0\طباعت الاعداد الاوليه من 5الا 18.runtimeconfig.json
+C:\Users\hp\source\repos\طباعت الاعداد الاوليه من 5الا 18\bin\Debug\net7.0\طباعت الاعداد الاوليه من 5الا 18.dll
+C:\Users\hp\source\repos\طباعت الاعداد الاوليه من 5الا 18\bin\Debug\net7.0\طباعت الاعداد الاوليه من 5الا 18.pdb
+C:\Users\hp\source\repos\طباعت الاعداد الاوليه من 5الا 18\obj\Debug\net7.0\طباعت الاعداد الاوليه من 5الا 18.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\طباعت الاعداد الاوليه من 5الا 18\obj\Debug\net7.0\طباعت الاعداد الاوليه من 5الا 18.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\طباعت الاعداد الاوليه من 5الا 18\obj\Debug\net7.0\طباعت الاعداد الاوليه من 5الا 18.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\طباعت الاعداد الاوليه من 5الا 18\obj\Debug\net7.0\طباعت الاعداد الاوليه من 5الا 18.AssemblyInfo.cs
+C:\Users\hp\source\repos\طباعت الاعداد الاوليه من 5الا 18\obj\Debug\net7.0\طباعت الاعداد الاوليه من 5الا 18.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\طباعت الاعداد الاوليه من 5الا 18\obj\Debug\net7.0\طباعت الاعداد الاوليه من 5الا 18.dll
+C:\Users\hp\source\repos\طباعت الاعداد الاوليه من 5الا 18\obj\Debug\net7.0\refint\طباعت الاعداد الاوليه من 5الا 18.dll
+C:\Users\hp\source\repos\طباعت الاعداد الاوليه من 5الا 18\obj\Debug\net7.0\طباعت الاعداد الاوليه من 5الا 18.pdb
+C:\Users\hp\source\repos\طباعت الاعداد الاوليه من 5الا 18\obj\Debug\net7.0\طباعت الاعداد الاوليه من 5الا 18.genruntimeconfig.cache
+C:\Users\hp\source\repos\طباعت الاعداد الاوليه من 5الا 18\obj\Debug\net7.0\ref\طباعت الاعداد الاوليه من 5الا 18.dll

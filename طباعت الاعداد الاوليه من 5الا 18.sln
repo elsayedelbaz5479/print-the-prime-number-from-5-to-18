@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33110.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "طباعت الاعداد الاوليه من 5الا 18", "طباعت الاعداد الاوليه من 5الا 18.csproj", "{8BCF37D7-1A9C-4938-AF49-E28A5BE01E5F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8BCF37D7-1A9C-4938-AF49-E28A5BE01E5F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8BCF37D7-1A9C-4938-AF49-E28A5BE01E5F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8BCF37D7-1A9C-4938-AF49-E28A5BE01E5F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8BCF37D7-1A9C-4938-AF49-E28A5BE01E5F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {49E4A115-2C5A-4AF8-8302-4658FF8D281B}
+	EndGlobalSection
+EndGlobal
